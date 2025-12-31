@@ -39,17 +39,9 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 </table>
 
 
-## [Live Demo](#)
+## [Live Demo](https://authentication-system-lilac-nine.vercel.app)
 
 ## 🌟 Features
-
-### 🎨 **Modern UI/UX**
-- Beautiful gradient design with purple theme
-- Glassmorphism effects and shadows
-- Smooth animations and hover effects
-- Fully responsive design for all devices
-- Eye icons for password visibility toggle
-- Professional navigation with user dropdown
 
 ### 🔐 **Authentication & Security**
 - User registration with validation
@@ -79,8 +71,6 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 
 ### 🚀 **Technical Excellence**
 - Redux Toolkit for state management
-- RTK Query for API calls
-- React Bootstrap for UI components
 - React Icons for modern iconography
 - MongoDB for database
 - Express.js RESTful API
@@ -93,9 +83,7 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 |------------|---------|---------|
 | React | UI Framework | 18+ |
 | Redux Toolkit | State Management | Latest |
-| RTK Query | Data Fetching | Latest |
 | React Router | Navigation | Latest |
-| React Bootstrap | UI Components | Latest |
 | React Icons | Icon Library | Latest |
 | React Toastify | Notifications | Latest |
 | Vite | Build Tool | Latest |
@@ -122,17 +110,13 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (v16 or higher)
-- MongoDB (local or Atlas)
-- npm or yarn package manager
 
 ### Installation Steps
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/mern-auth.git
-   cd mern-auth
+   git clone https://github.com/ravibhushan10/Authentication-system.git
+   cd Authentication-system
    ```
 
 2. **Install Client Dependencies**
@@ -149,30 +133,16 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 
 4. **Client Environment Variables: Create `.env` file in `client/` root directory**
    ```env
-   # For Development
-   REACT_APP_API_URL=http://localhost:5000
-
-   # For Production (update when deploying)
-   # REACT_APP_API_URL=https://your-backend-domain.com
+   REACT_APP_API_URL="your backend url"
    ```
 
 5. **Server Environment Variables: Create `.env` file in `server/` root directory**
    ```env
-   # Server Configuration
-   PORT=5000
-   NODE_ENV=development
-
-   # Database
-   MONGO_URI=your_mongodb_connection_string
-
-   # JWT Secret (use a strong random string)
-   JWT_SECRET=your_super_secret_jwt_key_here
-
-   # Frontend URL for CORS
-   CLIENT_URL=http://localhost:3000
-
-   # For Production
-   # CLIENT_URL=https://your-frontend-domain.com
+   MONGO_URI="your database url"
+   PORT="your port number"
+   JWT_SECRET="your JWT secret Key"
+   NODE_ENV="Development or production according to use"
+   CLIENT_URL="your frontend webiste url"
    ```
 
 6. **Start the Server**
@@ -267,18 +237,12 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
    - Wait for review and be responsive to feedback
 
 
-
-
-
-
 ## 👨‍💻 Author
 **Ravi Bhushan**
 - LinkedIn: [https://www.linkedin.com/in/ravibhushan-kumar-55b312344](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
 - Portfolio: [https://ravibhushan-portfolio.vercel.app](https://ravibhushan-portfolio.vercel.app)
 - GitHub: [@ravibhushan10](https://github.com/ravibhushan10)
 - Email: ravibhushankumar87tp@gmail.com
-
-
 
 ---
 <div align="center">
