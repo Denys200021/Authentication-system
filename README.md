@@ -6,38 +6,34 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 <table align="center">
   <tr>
     <td align="center">
-      <img src="screenshots/home.png" ><br/>
+      <img src="screenshots/front.png" ><br/>
       <em>Home Page</em>
     </td>
     <td align="center">
-      <img src="screenshots/login.png" ><br/>
-      <em>Login Screen</em>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="screenshots/register.png" ><br/>
+      <img src="screenshots/first.png" ><br/>
       <em>Registration Screen</em>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
-      <img src="screenshots/profile.png"><br/>
-      <em>Profile Management</em>
+      <img src="screenshots/second.png" ><br/>
+      <em>Login Screen</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/third.png"><br/>
+      <em>User Dashboard</em>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="screenshots/dashboard.png" ><br/>
-      <em>User Dashboard</em>
+      <img src="screenshots/fourth.png" ><br/>
+      <em>Profile Management</em>
     </td>
-     <td align="center">
-      <img src="screenshots/navbar.png" ><br/>
-      <em>Navigation Bar</em>
-    </td>
+    
   </tr>
 </table>
-
 
 ## [Live Demo](https://authentication-system-lilac-nine.vercel.app)
 
