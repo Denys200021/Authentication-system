@@ -14,7 +14,6 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
       <em>Registration Screen</em>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="screenshots/second.png" ><br/>
@@ -25,13 +24,11 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
       <em>User Dashboard</em>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="screenshots/fourth.png" ><br/>
       <em>Profile Management</em>
     </td>
-    
   </tr>
 </table>
 
@@ -242,11 +239,11 @@ A modern, secure full-stack authentication system built with the MERN stack. Fea
 
 ---
 <div align="center">
-   
+
 ### ⭐ Star this repository if it helped you!
 **Made with ❤️ by Your Name**
-   
-   
+
+
 [Live Demo](https://authentication-system-lilac-nine.vercel.app) · [Report Bug](https://github.com/ravibhushan10/Authentication-system/issues) · [Request Feature](https://github.com/ravibhushan10/Authentication-system/issues)
 
 </div>
